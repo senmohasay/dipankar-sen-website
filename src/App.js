@@ -330,17 +330,17 @@ export default function ConsultantWebsite() {
             <div>
               <h4 className="font-bold mb-3 text-sm">Services</h4>
               <ul className="space-y-2 text-sm text-slate-400">
-                <li><a href="#" className="hover:text-white transition">Consulting</a></li>
-                <li><a href="#" className="hover:text-white transition">Training</a></li>
-                <li><a href="#" className="hover:text-white transition">Courses</a></li>
+                <li><a href="/" className="hover:text-white transition">Consulting</a></li>
+                <li><a href="/" className="hover:text-white transition">Training</a></li>
+                <li><a href="/" className="hover:text-white transition">Courses</a></li>
               </ul>
             </div>
             <div>
               <h4 className="font-bold mb-3 text-sm">Resources</h4>
               <ul className="space-y-2 text-sm text-slate-400">
-                <li><a href="#" className="hover:text-white transition">Blog</a></li>
-                <li><a href="#" className="hover:text-white transition">Newsletter</a></li>
-                <li><a href="#" className="hover:text-white transition">Case Studies</a></li>
+                <li><a href="/" className="hover:text-white transition">Blog</a></li>
+                <li><a href="/" className="hover:text-white transition">Newsletter</a></li>
+                <li><a href="/" className="hover:text-white transition">Case Studies</a></li>
               </ul>
             </div>
             <div>
@@ -348,7 +348,7 @@ export default function ConsultantWebsite() {
               <ul className="space-y-2 text-sm text-slate-400">
                 <li><a href="mailto:senmohasay@gmail.com" className="hover:text-white transition">Email</a></li>
                 <li><a href="https://linkedin.com/in/dipankar-sen-017aa924/" target="_blank" rel="noopener noreferrer" className="hover:text-white transition">LinkedIn</a></li>
-                <li><a href="#" className="hover:text-white transition">Calendar</a></li>
+                <li><a href="/" className="hover:text-white transition">Calendar</a></li>
               </ul>
             </div>
           </div>
