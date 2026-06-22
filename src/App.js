@@ -123,7 +123,7 @@ export default function ConsultantWebsite() {
           {/* Hero Stats */}
           <div className="grid grid-cols-3 gap-4 sm:gap-8 pt-12 border-t border-slate-200">
             <div>
-              <div className="text-3xl sm:text-4xl font-bold text-blue-700">25+</div>
+              <div className="text-3xl sm:text-4xl font-bold text-blue-700">26+</div>
               <p className="text-sm text-slate-600">Years Experience</p>
             </div>
             <div>
