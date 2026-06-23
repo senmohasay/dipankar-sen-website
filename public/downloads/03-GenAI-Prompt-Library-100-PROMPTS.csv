@@ -1,0 +1,134 @@
+CATEGORY,MODULE,PROMPT_ID,TITLE,DESCRIPTION,USE_CASE,DIFFICULTY,ESTIMATED_TIME_MIN
+Recruiting,Employee Central,REC001,Create Employee JD,Generate job description with all required sections,New hire planning,Easy,5
+Recruiting,Employee Central,REC002,Screen Resumes,Analyze resumes against job requirements,Candidate evaluation,Easy,10
+Recruiting,Employee Central,REC003,Interview Questions,Generate behavioral interview questions,Interview preparation,Medium,15
+Recruiting,Recruiting Module,REC004,Job Description Enhancement,Improve and optimize existing job descriptions,Existing JD update,Easy,5
+Recruiting,Recruiting Module,REC005,Candidate Ranking,Rank candidates based on criteria,Candidate selection,Medium,10
+Recruiting,Recruiting Module,REC006,Offer Letter,Create professional offer letter,Offer creation,Easy,5
+Recruiting,Recruiting Module,REC007,Competitive Analysis,Analyze competitor JD and compensation,Market research,Medium,15
+Recruiting,Recruiting Module,REC008,Diversity Hiring,Generate diverse candidate sourcing strategy,DEI initiative,Hard,20
+Recruiting,Recruiting Module,REC009,Background Check Script,Create reference check questionnaire,Due diligence,Medium,10
+Recruiting,Recruiting Module,REC010,Salary Negotiation,Develop negotiation strategy and talking points,Offer negotiation,Hard,20
+Recruiting,Recruiting Module,REC011,Interview Feedback,Structure interview feedback and scoring,Interview conclusion,Easy,5
+Recruiting,Recruiting Module,REC012,Rejection Letter,Craft professional rejection letter,Candidate communication,Easy,5
+Recruiting,Recruiting Module,REC013,Onboarding Checklist,Create pre-arrival onboarding checklist,New hire preparation,Medium,10
+Recruiting,Recruiting Module,REC014,Requisition Analysis,Analyze unfilled requisitions and bottlenecks,Recruitment analysis,Hard,20
+Recruiting,Recruiting Module,REC015,Employer Branding,Develop employer value proposition,Recruitment marketing,Hard,25
+Onboarding,Onboarding,ONB001,90-Day Plan,Create 90-day onboarding plan,New hire success,Medium,15
+Onboarding,Onboarding,ONB002,Training Plan,Generate comprehensive training roadmap,Skills development,Medium,20
+Onboarding,Onboarding,ONB003,Mentor Program,Design mentorship structure,Onboarding support,Medium,15
+Onboarding,Onboarding,ONB004,Buddy Assignment,Define buddy program structure,Peer support,Easy,10
+Onboarding,Onboarding,ONB005,First Week Agenda,Create detailed first week schedule,Day 1-5 planning,Easy,10
+Onboarding,Onboarding,ONB006,Welcome Email,Write engaging welcome email,First communication,Easy,5
+Onboarding,Onboarding,ONB007,Learning Objectives,Define learning objectives by role,Onboarding goals,Medium,10
+Onboarding,Onboarding,ONB008,Feedback Survey,Create onboarding feedback survey,Quality measurement,Easy,10
+Onboarding,Onboarding,ONB009,Culture Briefing,Prepare company culture overview,Cultural orientation,Medium,15
+Onboarding,Onboarding,ONB010,Integration Plan,Design integration with other systems,Technical onboarding,Hard,20
+Performance,Performance Management,PER001,Performance Goals,Create SMART performance goals,Goal setting,Medium,15
+Performance,Performance Management,PER002,Review Template,Structure performance review format,Annual appraisal,Easy,10
+Performance,Performance Management,PER003,360 Feedback,Generate 360-degree feedback questionnaire,Multi-rater feedback,Medium,15
+Performance,Performance Management,PER004,Competency Assessment,Create competency assessment framework,Skills evaluation,Hard,25
+Performance,Performance Management,PER005,Development Plan,Design individual development plan,Career growth,Medium,20
+Performance,Performance Management,PER006,PIP Creation,Create Performance Improvement Plan,Underperformance,Hard,20
+Performance,Performance Management,PER007,Rating Distribution,Develop performance rating distribution rules,Rating alignment,Hard,20
+Performance,Performance Management,PER008,Calibration Guide,Create manager calibration guidance,Rating moderation,Hard,20
+Compensation,Compensation,COM001,Salary Review,Analyze compensation levels and adjustments,Annual increase,Medium,20
+Compensation,Compensation,COM002,Bonus Structure,Design bonus structure and formula,Variable pay,Hard,25
+Compensation,Compensation,COM003,Equity Plan,Create stock option vesting schedule,Equity compensation,Hard,30
+Compensation,Compensation,COM004,Benefits Package,Design comprehensive benefits offering,Total rewards,Hard,30
+Compensation,Compensation,COM005,Market Analysis,Conduct compensation market analysis,Benchmarking,Hard,25
+Compensation,Compensation,COM006,Pay Grade Structure,Create job grade and pay grade matrix,Compensation framework,Hard,25
+Compensation,Compensation,COM007,Budget Allocation,Distribute compensation budget by department,Budget planning,Hard,25
+Compensation,Compensation,COM008,Compliance Review,Verify compensation compliance by country,Regulatory,Hard,20
+Compensation,Compensation,COM009,Salary Planning,Create salary planning process and rules,Annual planning,Hard,25
+Compensation,Compensation,COM010,Executive Compensation,Design executive compensation package,Leadership pay,Hard,30
+Time Management,Time & Attendance,TIM001,Timesheet Approval,Create timesheet approval workflow,Month-end close,Medium,15
+Time Management,Time & Attendance,TIM002,Leave Policy,Develop comprehensive leave policy,Leave management,Medium,20
+Time Management,Time & Attendance,TIM003,Attendance Rules,Define attendance calculation rules,Attendance tracking,Hard,20
+Time Management,Time & Attendance,TIM004,Overtime Policy,Create overtime management policy,Overtime handling,Medium,15
+Time Management,Time & Attendance,TIM005,Payroll Integration,Design time to payroll integration,Integration design,Hard,25
+Time Management,Time & Attendance,TIM006,Shift Management,Create shift scheduling rules,Shift operations,Hard,25
+Time Management,Time & Attendance,TIM007,Compliance Audit,Conduct time and attendance compliance audit,Regulatory,Hard,20
+Time Management,Time & Attendance,TIM008,Device Integration,Setup biometric/device integration,System integration,Hard,30
+Time Management,Time & Attendance,TIM009,Exception Handling,Define exception handling rules,Edge cases,Medium,20
+Time Management,Time & Attendance,TIM010,Forecasting,Forecast resource needs based on time data,Workforce planning,Hard,25
+Payroll,Payroll,PAY001,Payroll Checklist,Create monthly payroll processing checklist,Payroll administration,Medium,15
+Payroll,Payroll,PAY002,Tax Calculation,Verify tax calculation by country,Compliance,Hard,25
+Payroll,Payroll,PAY003,Statutory Deduction,Calculate statutory deductions (PF/ESI),Payroll processing,Hard,20
+Payroll,Payroll,PAY004,Bonus Calculation,Calculate annual bonus and distribution,Variable pay,Hard,25
+Payroll,Payroll,PAY005,Reconciliation,Create payroll reconciliation process,Quality control,Medium,20
+Payroll,Payroll,PAY006,Salary Advance,Design salary advance policy and process,Employee benefit,Medium,15
+Payroll,Payroll,PAY007,Loan Management,Create employee loan management system,Benefits administration,Hard,25
+Payroll,Payroll,PAY008,Compliance Filing,Ensure compliance filings (Form 12BA, etc.),Statutory requirement,Hard,20
+Payroll,Payroll,PAY009,Currency Management,Handle multi-currency payroll scenarios,Global payroll,Hard,30
+Payroll,Payroll,PAY010,Exception Processing,Define payroll exception handling,Payroll edge cases,Hard,20
+Analytics,Analytics & Reporting,ANA001,Headcount Report,Generate headcount analysis report,Workforce metrics,Easy,10
+Analytics,Analytics & Reporting,ANA002,Turnover Analysis,Analyze employee turnover trends,Retention metrics,Medium,20
+Analytics,Analytics & Reporting,ANA003,Hiring Metrics,Create hiring effectiveness dashboard,Recruitment metrics,Medium,20
+Analytics,Analytics & Reporting,ANA004,Compensation Analysis,Analyze compensation equity and ranges,Pay equity,Hard,25
+Analytics,Analytics & Reporting,ANA005,Performance Analytics,Analyze performance rating distribution,Performance metrics,Medium,20
+Analytics,Analytics & Reporting,ANA006,Engagement Survey,Design and analyze engagement survey,Employee engagement,Medium,25
+Analytics,Analytics & Reporting,ANA007,Succession Pipeline,Analyze succession readiness metrics,Talent pipeline,Hard,25
+Analytics,Analytics & Reporting,ANA008,Compliance Dashboard,Create compliance monitoring dashboard,Regulatory tracking,Hard,25
+Analytics,Analytics & Reporting,ANA009,Cost Analysis,Analyze HR cost structure and trends,Financial analysis,Hard,25
+Analytics,Analytics & Reporting,ANA010,Predictive Analytics,Build predictive models (turnover/performance),Advanced analytics,Hard,30
+Testing,Testing,TST001,Test Case Generation,Generate SAP SF test cases,QA preparation,Medium,15
+Testing,Testing,TST002,Test Data Creation,Create test data for scenarios,QA setup,Medium,20
+Testing,Testing,TST003,Performance Test,Design performance testing approach,Load testing,Hard,25
+Testing,Testing,TST004,Defect Report,Structure defect documentation,QA reporting,Easy,10
+Testing,Testing,TST005,Test Automation Script,Generate Selenium test script,Automation,Hard,30
+Testing,Testing,TST006,UAT Script,Create User Acceptance Testing script,UAT,Medium,20
+Testing,Testing,TST007,Go-Live Checklist,Create go-live readiness checklist,Go-live prep,Medium,20
+Testing,Testing,TST008,Regression Testing,Define regression test scope,Testing strategy,Hard,20
+Testing,Testing,TST009,Security Testing,Design security testing approach,Security testing,Hard,30
+Testing,Testing,TST010,Integration Testing,Create integration test scenarios,Cross-module testing,Hard,25
+Compliance,Compliance & Audit,CMP001,Compliance Checklist,Create annual compliance checklist,Regulatory,Medium,20
+Compliance,Compliance & Audit,CMP002,Audit Plan,Design internal audit plan,Audit planning,Hard,25
+Compliance,Compliance & Audit,CMP003,Policy Review,Review and update HR policies,Policy management,Medium,20
+Compliance,Compliance & Audit,CMP004,Risk Assessment,Conduct HR risk assessment,Risk management,Hard,30
+Compliance,Compliance & Audit,CMP005,Data Privacy,Create data privacy policy,GDPR/Privacy,Hard,25
+Compliance,Compliance & Audit,CMP006,Incident Response,Design incident response protocol,Crisis management,Hard,30
+Compliance,Compliance & Audit,CMP007,Training Plan,Create compliance training program,Regulatory training,Medium,20
+Compliance,Compliance & Audit,CMP008,Documentation,Design documentation framework,Record keeping,Medium,20
+Compliance,Compliance & Audit,CMP009,Audit Report,Structure compliance audit report,Audit documentation,Medium,20
+Compliance,Compliance & Audit,CMP010,Remediation,Create remediation plan for gaps,Compliance closure,Medium,20
+Strategy,Strategy & Planning,STR001,HR Strategy,Develop 3-year HR strategy,Strategic planning,Hard,40
+Strategy,Strategy & Planning,STR002,Transformation Roadmap,Create HR transformation roadmap,Change management,Hard,45
+Strategy,Strategy & Planning,STR003,Org Design,Design optimal organizational structure,Org planning,Hard,40
+Strategy,Strategy & Planning,STR004,Succession Plan,Create executive succession plan,Talent planning,Hard,40
+Strategy,Strategy & Planning,STR005,Culture Strategy,Develop company culture strategy,Culture transformation,Hard,40
+Strategy,Strategy & Planning,STR006,Engagement Plan,Create employee engagement strategy,Engagement improvement,Hard,35
+Strategy,Strategy & Planning,STR007,DEI Strategy,Develop diversity and inclusion strategy,DEI initiatives,Hard,45
+Strategy,Strategy & Planning,STR008,Technology Roadmap,Plan HR technology investments,Technology strategy,Hard,45
+Strategy,Strategy & Planning,STR009,Capability Plan,Design workforce capability development,Skills strategy,Hard,40
+Strategy,Strategy & Planning,STR010,Change Management,Create change management plan,Transformation support,Hard,45
+Communication,Communication,COM001,Announcement Email,Craft HR announcement email,Internal communication,Easy,10
+Communication,Communication,COM002,Policy Communication,Communicate new policy with examples,Policy rollout,Medium,15
+Communication,Communication,COM003,Town Hall Agenda,Create town hall meeting agenda,Leadership communication,Medium,15
+Communication,Communication,COM004,Change Message,Develop change management messaging,Change communication,Medium,20
+Communication,Communication,COM005,Benefits Guide,Create benefits communication guide,Benefits education,Medium,20
+Communication,Communication,COM006,Feedback Survey,Design feedback survey for communication,Communication feedback,Easy,10
+Communication,Communication,COM007,Manager Guide,Create manager communication toolkit,Manager enablement,Hard,25
+Communication,Communication,COM008,Employee Newsletter,Design monthly employee newsletter,Internal communication,Easy,15
+Communication,Communication,COM009,Crisis Communication,Develop crisis communication protocol,Emergency response,Hard,30
+Communication,Communication,COM010,FAQ Document,Create comprehensive FAQ document,Self-service support,Easy,15
+Development,Learning & Development,DEV001,Training Needs Assessment,Conduct training needs analysis,L&D planning,Medium,20
+Development,Learning & Development,DEV002,Course Design,Design training course structure,Curriculum development,Hard,30
+Development,Learning & Development,DEV003,Learning Objectives,Define learning objectives,Instructional design,Medium,15
+Development,Learning & Development,DEV004,Assessment Design,Create training assessments,Learning measurement,Medium,20
+Development,Learning & Development,DEV005,Coaching Plan,Design executive coaching program,Leadership development,Hard,30
+Development,Learning & Development,DEV006,Mentorship Program,Design mentorship structure,Talent development,Hard,30
+Development,Learning & Development,DEV007,Career Path,Define career progression paths,Career development,Hard,25
+Development,Learning & Development,DEV008,Succession Development,Create succession development plan,Talent pipeline,Hard,35
+Development,Learning & Development,DEV009,Training ROI,Calculate training program ROI,Program evaluation,Hard,25
+Development,Learning & Development,DEV010,Virtual Learning,Design virtual training program,Digital learning,Hard,30
+Engagement,Employee Experience,ENG001,Engagement Strategy,Develop engagement improvement strategy,Engagement optimization,Hard,35
+Engagement,Employee Experience,ENG002,Pulse Survey,Design pulse engagement survey,Engagement measurement,Medium,15
+Engagement,Employee Experience,ENG003,Wellness Program,Design comprehensive wellness program,Employee wellness,Hard,35
+Engagement,Employee Experience,ENG004,Recognition Program,Create recognition and rewards program,Motivation & engagement,Hard,30
+Engagement,Employee Experience,ENG005,Work-Life Balance,Develop work-life balance initiatives,Employee wellbeing,Hard,30
+Engagement,Employee Experience,ENG006,Culture Events,Plan monthly culture and team events,Culture building,Medium,20
+Engagement,Employee Experience,ENG007,Feedback System,Design continuous feedback mechanism,Feedback culture,Medium,20
+Engagement,Employee Experience,ENG008,Listening Tour,Structure employee listening sessions,Voice of employee,Medium,20
+Engagement,Employee Experience,ENG009,Exit Interview,Create exit interview process,Departure management,Medium,15
+Engagement,Employee Experience,ENG010,Stay Interview,Design stay interview program,Retention focus,Medium,15
